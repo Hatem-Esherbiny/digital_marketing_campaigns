@@ -1,0 +1,101 @@
+CampaignID,CampaignName,Platform,CampaignType,StartDate,EndDate,Impressions,Clicks,CostPerClick,Conversions,ConversionRate,TotalCost,CTR,CPA
+C1,Cross-platform tertiary throughput,LinkedIn,Brand Awareness,2023-01-01,2023-02-18,31999,2132,4.46,427,0.1755,9508.72,0.0666270821,22.26866511
+C2,Ergonomic background support,LinkedIn,Lead Generation,2023-12-14,2024-01-02,72460,5884,1.83,909,0.1848,10767.72,0.08120342258,11.84567657
+C3,Streamlined web-enabled productivity,Facebook,Engagement,2023-08-17,2023-09-04,73234,9788,2.74,346,0.0567,26819.12,0.1336537674,77.51190751
+C4,Compatible uniform strategy,LinkedIn,Brand Awareness,2023-06-06,2023-07-05,1550,6125,2.17,644,0.0361,13291.25,3.951612903,20.63858696
+C5,Inverse motivating collaboration,Facebook,Engagement,2023-03-18,2023-10-07,87512,5624,1.85,760,0.0566,10404.4,0.06426547216,13.69
+C6,Optional methodical info-mediaries,Facebook,Conversion,2023-08-25,2023-11-01,69269,3957,2.64,330,0.1935,10446.48,0.05712512091,31.656
+C7,Re-contextualized full-range interface,LinkedIn,Conversion,2023-09-30,2023-10-27,70492,4184,1.35,154,0.1289,5648.4,0.05935425296,36.67792208
+C8,Cross-platform homogeneous standardization,Facebook,Brand Awareness,2023-04-22,2023-10-01,75389,6305,0.62,524,0.059,3909.1,0.08363289074,7.460114504
+C9,Configurable intangible focus group,Facebook,Brand Awareness,2023-03-28,2023-07-28,50127,2559,0.15,700,0.1184,383.85,0.05105033216,0.5483571429
+C10,Synchronized coherent service-desk,LinkedIn,Lead Generation,2023-07-03,2023-07-04,2877,7820,0.9,949,0.1232,7038,2.718109141,7.416227608
+C11,Managed dynamic system engine,Facebook,Brand Awareness,2023-03-29,2023-08-02,26635,7996,0.92,950,0.1274,7356.32,0.3002064952,7.743494737
+C12,Expanded clear-thinking open architecture,Facebook,Lead Generation,2023-06-24,2023-06-26,8396,8322,0.94,953,0.1401,7822.68,0.9911862792,8.208478489
+C13,Profit-focused full-range synergy,LinkedIn,Engagement,2023-08-31,2023-09-27,21712,9165,1.42,982,0.0869,13014.3,0.4221168018,13.25285132
+C14,Organized interactive workforce,LinkedIn,Engagement,2023-09-04,2023-09-18,59735,8561,2.62,433,0.0372,22429.82,0.1433163137,51.80096998
+C15,Horizontal holistic strategy,LinkedIn,Lead Generation,2023-12-09,2023-12-25,68762,5439,0.6,714,0.1071,3263.4,0.07909892092,4.570588235
+C16,Phased uniform framework,Facebook,Lead Generation,2023-12-10,2023-12-28,68008,6231,1.43,252,0.018,8910.33,0.09162157393,35.35845238
+C17,Triple-buffered transitional strategy,LinkedIn,Engagement,2023-05-23,2023-10-28,20086,4657,0.89,518,0.1475,4144.73,0.231853032,8.001409266
+C18,Streamlined tangible firmware,Facebook,Engagement,2023-07-04,2023-07-19,99067,8692,1.42,692,0.0461,12342.64,0.08773860115,17.83618497
+C19,Centralized bottom-line artificial intelligence,Facebook,Conversion,2023-10-07,2023-11-02,48919,1706,4.9,897,0.1428,8359.4,0.03487397535,9.319286511
+C20,Progressive value-added website,Facebook,Brand Awareness,2023-10-23,2023-10-24,48928,836,2.86,975,0.1292,2390.96,0.01708633094,2.452266667
+C21,Seamless mission-critical leverage,Facebook,Conversion,2023-03-22,2023-04-10,69742,3067,0.16,748,0.1161,490.72,0.04397637005,0.6560427807
+C22,Polarized scalable contingency,LinkedIn,Engagement,2023-07-23,2023-11-02,90148,9088,0.8,962,0.1227,7270.4,0.100811998,7.557588358
+C23,Expanded scalable policy,LinkedIn,Lead Generation,2023-01-18,2023-03-11,65477,9780,4.31,31,0.1585,42151.8,0.149365426,1359.735484
+C24,Synergized responsive forecast,Facebook,Lead Generation,2023-09-25,2023-10-14,30561,2334,3.46,409,0.0585,8075.64,0.07637184647,19.74484108
+C25,Extended tertiary synergy,Facebook,Brand Awareness,2023-01-13,2023-12-22,64413,8550,2.43,369,0.0179,20776.5,0.1327371804,56.30487805
+C26,Virtual secondary productivity,Facebook,Conversion,2023-01-03,2023-11-29,92369,9149,3.96,921,0.1754,36230.04,0.09904838203,39.33771987
+C27,Progressive motivating moderator,Facebook,Brand Awareness,2023-11-29,2023-12-17,15197,5602,0.41,137,0.0434,2296.82,0.3686253866,16.76510949
+C28,Visionary web-enabled core,Facebook,Conversion,2023-03-05,2023-05-03,75604,9211,1.41,108,0.1163,12987.51,0.1218321782,120.2547222
+C29,Down-sized hybrid encoding,LinkedIn,Conversion,2023-08-18,2023-08-19,94964,8684,1.01,208,0.0779,8770.84,0.09144517923,42.1675
+C30,Multi-lateral fault-tolerant workforce,Facebook,Engagement,2023-03-03,2023-03-06,91407,831,2.15,183,0.0192,1786.65,0.009091207457,9.763114754
+C31,Devolved analyzing definition,LinkedIn,Lead Generation,2023-07-21,2023-10-11,11369,9182,2.33,498,0.1178,21394.06,0.8076347964,42.95995984
+C32,Automated non-volatile analyzer,Facebook,Brand Awareness,2023-02-23,2023-05-24,16444,3593,3.05,343,0.0276,10958.65,0.2184991486,31.94941691
+C33,Fundamental heuristic leverage,LinkedIn,Brand Awareness,2023-11-04,2023-12-06,93740,2433,1.8,642,0.0588,4379.4,0.02595476851,6.821495327
+C34,Devolved explicit info-mediaries,LinkedIn,Lead Generation,2023-07-30,2023-12-19,77550,9903,4.79,197,0.0781,47435.37,0.1276982592,240.7886802
+C35,Polarized impactful secured line,Facebook,Engagement,2023-10-18,2023-11-04,1538,8561,0.15,347,0.0225,1284.15,5.566319896,3.700720461
+C36,Progressive even-keeled capacity,Facebook,Brand Awareness,2023-01-30,2023-02-27,77390,7918,1.81,744,0.048,14331.58,0.1023129603,19.26287634
+C37,Advanced full-range success,LinkedIn,Engagement,2023-03-28,2023-10-01,89281,5223,0.37,535,0.05,1932.51,0.05850068884,3.612168224
+C38,Down-sized multi-tasking pricing structure,Facebook,Conversion,2023-06-23,2023-07-04,94677,1352,0.34,810,0.1718,459.68,0.01428013139,0.5675061728
+C39,Polarized zero administration strategy,Facebook,Brand Awareness,2023-09-20,2023-10-03,84457,2744,3.49,614,0.0943,9576.56,0.03248990611,15.59700326
+C40,Networked secondary function,LinkedIn,Lead Generation,2023-07-24,2023-07-29,41966,9877,3.26,58,0.1723,32199.02,0.2353571939,555.1555172
+C41,Enterprise-wide multi-tasking knowledge user,Facebook,Brand Awareness,2023-09-03,2023-09-26,47640,2005,2.15,238,0.0994,4310.75,0.04208648195,18.11239496
+C42,Compatible secondary standardization,LinkedIn,Conversion,2023-01-13,2023-09-14,59098,2026,0.13,709,0.1906,263.38,0.03428204,0.3714809591
+C43,Enhanced asymmetric extranet,Facebook,Engagement,2023-10-01,2023-12-01,1608,7488,0.79,855,0.0363,5915.52,4.656716418,6.918736842
+C44,Re-contextualized optimal concept,LinkedIn,Engagement,2023-04-10,2023-10-23,53838,9663,1.97,441,0.0131,19036.11,0.1794828931,43.16578231
+C45,Monitored neutral groupware,LinkedIn,Engagement,2023-12-03,2023-12-28,93246,6360,1.64,549,0.1839,10430.4,0.06820667911,18.9989071
+C46,Compatible solution-oriented Graphic Interface,LinkedIn,Engagement,2023-04-24,2023-05-06,39390,5114,2.96,789,0.1715,15137.44,0.1298299061,19.18560203
+C47,Intuitive web-enabled strategy,Facebook,Engagement,2023-09-19,2023-09-20,6145,6637,4.94,186,0.0643,32786.78,1.080065094,176.2730108
+C48,Reactive 6thgeneration complexity,LinkedIn,Conversion,2023-02-22,2023-03-10,18491,1434,2.49,47,0.1099,3570.66,0.07755124114,75.97148936
+C49,Integrated discrete toolset,Facebook,Conversion,2023-09-04,2023-09-26,43651,3137,4.37,842,0.0203,13708.69,0.07186547845,16.28110451
+C50,Centralized real-time hardware,LinkedIn,Engagement,2023-06-20,2023-07-01,91445,5138,0.18,614,0.0266,924.84,0.05618677894,1.506254072
+C51,Progressive client-driven concept,Facebook,Conversion,2023-11-24,2023-11-29,71613,9917,3.57,546,0.1295,35403.69,0.1384804435,64.84192308
+C52,Quality-focused 24hour infrastructure,Facebook,Conversion,2023-01-25,2023-11-29,61691,6710,2.02,113,0.1909,13554.2,0.1087678916,119.9486726
+C53,Centralized intangible alliance,Facebook,Conversion,2023-11-08,2023-11-09,15641,9988,3.13,484,0.0655,31262.44,0.638578096,64.59181818
+C54,Reactive empowering process improvement,Facebook,Conversion,2023-02-08,2023-04-16,46218,2091,2.93,945,0.1308,6126.63,0.04524211346,6.483206349
+C55,Re-engineered actuating moratorium,Facebook,Conversion,2023-12-09,2023-12-14,57344,8907,3.21,194,0.1967,28591.47,0.1553257533,147.3787113
+C56,Secured real-time superstructure,LinkedIn,Lead Generation,2023-08-15,2023-08-22,26576,7736,4.97,368,0.0716,38447.92,0.291089705,104.4780435
+C57,Ergonomic mission-critical interface,Facebook,Engagement,2023-02-20,2023-07-18,18764,3820,4.33,535,0.1517,16540.6,0.2035813259,30.91700935
+C58,Ergonomic high-level intranet,LinkedIn,Conversion,2023-05-31,2023-06-04,94101,5465,1.97,924,0.1228,10766.05,0.05807589717,11.65156926
+C59,Sharable real-time array,LinkedIn,Engagement,2023-10-30,2023-11-17,65180,4629,2.84,400,0.1902,13146.36,0.0710187174,32.8659
+C60,Progressive high-level process improvement,Facebook,Brand Awareness,2023-01-05,2023-01-22,21098,6686,4.53,129,0.0361,30287.58,0.316902076,234.7874419
+C61,Multi-lateral attitude-oriented open architecture,LinkedIn,Brand Awareness,2023-07-05,2023-07-12,5172,7834,0.66,800,0.1636,5170.44,1.514694509,6.46305
+C62,Function-based cohesive time-frame,Facebook,Brand Awareness,2023-05-08,2023-09-23,46803,3684,4.86,826,0.1663,17904.24,0.07871290302,21.67583535
+C63,Triple-buffered disintermediate workforce,Facebook,Conversion,2023-11-28,2023-12-04,97418,8387,2.45,655,0.1979,20548.15,0.08609291917,31.37122137
+C64,Exclusive modular extranet,Facebook,Lead Generation,2023-11-13,2023-11-28,3510,8992,4.15,555,0.1255,37316.8,2.561823362,67.23747748
+C65,Implemented attitude-oriented emulation,Facebook,Lead Generation,2023-01-05,2023-11-27,46351,5934,3.51,420,0.0545,20828.34,0.1280231279,49.59128571
+C66,Ergonomic responsive project,Facebook,Brand Awareness,2023-09-06,2023-09-14,60030,1504,3.24,107,0.1781,4872.96,0.0250541396,45.54168224
+C67,Open-source context-sensitive focus group,Facebook,Engagement,2023-10-03,2023-10-22,6920,3710,0.2,176,0.1327,742,0.5361271676,4.215909091
+C68,Enterprise-wide zero-defect monitoring,LinkedIn,Lead Generation,2023-11-24,2023-12-21,40882,8846,4.57,899,0.1324,40426.22,0.2163788464,44.96798665
+C69,Proactive 24/7 groupware,LinkedIn,Engagement,2023-01-08,2023-08-02,87172,1038,1.84,136,0.1019,1909.92,0.01190749323,14.04352941
+C70,Ameliorated zero administration alliance,LinkedIn,Lead Generation,2023-10-13,2023-10-28,81389,9031,3.91,480,0.1202,35311.21,0.1109609407,73.56502083
+C71,Distributed leadingedge circuit,Facebook,Lead Generation,2023-06-15,2023-06-18,43523,7044,3.79,184,0.0232,26696.76,0.161845461,145.091087
+C72,Multi-layered asymmetric function,LinkedIn,Brand Awareness,2023-12-16,2024-01-08,20783,4862,4.17,238,0.1372,20274.54,0.2339412019,85.18714286
+C73,Up-sized discrete intranet,Facebook,Conversion,2023-09-25,2023-10-07,55027,6059,1.33,475,0.0978,8058.47,0.1101095826,16.9652
+C74,Multi-layered composite strategy,Facebook,Engagement,2023-01-22,2023-03-12,26749,5032,0.73,409,0.0815,3673.36,0.188119182,8.981320293
+C75,Horizontal disintermediate attitude,Facebook,Conversion,2023-01-01,2023-02-03,20817,9404,2.56,365,0.183,24074.24,0.451746169,65.95682192
+C76,Multi-lateral high-level task-force,Facebook,Brand Awareness,2023-12-30,2024-01-28,46680,2113,2.37,947,0.0188,5007.81,0.04526563839,5.288078141
+C77,User-centric object-oriented solution,Facebook,Engagement,2023-02-20,2023-11-23,64126,6599,1.25,645,0.1347,8248.75,0.1029067773,12.78875969
+C78,Synergized mobile frame,Facebook,Brand Awareness,2023-03-29,2023-04-01,35867,7654,4.32,34,0.1269,33065.28,0.2133995037,972.5082353
+C79,Total global analyzer,LinkedIn,Engagement,2023-08-24,2023-09-09,67445,8987,4.11,978,0.0318,36936.57,0.1332493143,37.76745399
+C80,Adaptive system-worthy protocol,LinkedIn,Engagement,2023-06-06,2023-06-26,6180,3462,0.93,464,0.101,3219.66,0.5601941748,6.938922414
+C81,Cloned composite interface,Facebook,Lead Generation,2023-04-10,2023-04-27,2757,4207,2.67,899,0.1234,11232.69,1.525933986,12.49464961
+C82,Open-source leadingedge benchmark,LinkedIn,Lead Generation,2023-10-03,2023-10-20,29596,9710,3.18,965,0.0997,30877.8,0.3280848763,31.99772021
+C83,Robust 24hour database,LinkedIn,Conversion,2023-12-29,2024-01-15,92406,2988,2.98,468,0.0375,8904.24,0.03233556263,19.02615385
+C84,Configurable well-modulated benchmark,LinkedIn,Lead Generation,2023-10-31,2023-11-24,34003,6183,4.57,638,0.1536,28256.31,0.1818368967,44.28888715
+C85,Ameliorated methodical circuit,Facebook,Lead Generation,2023-06-17,2023-07-02,54568,9501,3.38,47,0.1777,32113.38,0.1741130333,683.2634043
+C86,Robust holistic function,Facebook,Conversion,2023-08-20,2023-12-26,2093,9519,2.68,358,0.0853,25510.92,4.5480172,71.25955307
+C87,Open-source dynamic product,Facebook,Engagement,2023-05-04,2023-07-12,61236,9172,1.3,465,0.1081,11923.6,0.1497811745,25.64215054
+C88,Organized client-driven benchmark,LinkedIn,Lead Generation,2023-03-25,2023-05-16,61224,3969,1.04,957,0.1066,4127.76,0.06482751862,4.31322884
+C89,De-engineered upward-trending hierarchy,LinkedIn,Conversion,2023-07-17,2023-11-02,54818,2012,2.5,45,0.0452,5030,0.03670327265,111.7777778
+C90,Virtual 24hour functionalities,LinkedIn,Lead Generation,2023-04-06,2023-04-22,91814,1194,2.05,597,0.03,2447.7,0.01300455268,4.1
+C91,Triple-buffered modular synergy,Facebook,Lead Generation,2023-04-06,2023-08-15,7672,1198,4.98,575,0.0688,5966.04,0.1561522419,10.37572174
+C92,Re-contextualized maximized toolset,LinkedIn,Engagement,2023-04-07,2023-05-10,71882,4146,2.23,514,0.0165,9245.58,0.05767786094,17.98750973
+C93,Future-proofed contextually-based algorithm,Facebook,Conversion,2023-12-28,2024-01-04,34489,7093,0.56,884,0.1179,3972.08,0.2056597756,4.493303167
+C94,Function-based responsive strategy,Facebook,Lead Generation,2023-07-16,2023-12-14,85374,1252,2.81,978,0.1551,3518.12,0.01466488627,3.597259714
+C95,De-engineered 24/7 middleware,Facebook,Engagement,2023-07-27,2023-08-19,22075,254,2.6,837,0.0454,660.4,0.01150622877,0.7890083632
+C96,Robust static time-frame,LinkedIn,Lead Generation,2023-02-02,2023-04-02,69325,1204,4.11,776,0.1514,4948.44,0.01736747205,6.37685567
+C97,Fully-configurable cohesive emulation,LinkedIn,Lead Generation,2023-04-20,2023-10-06,54750,1384,2.67,590,0.0311,3695.28,0.02527853881,6.263186441
+C98,Face-to-face logistical flexibility,Facebook,Lead Generation,2023-10-02,2023-10-23,58987,3930,1.7,975,0.091,6681,0.06662484954,6.852307692
+C99,Exclusive executive customer loyalty,LinkedIn,Conversion,2023-05-29,2023-06-06,20293,200,4.55,114,0.0527,910,0.009855615237,7.98245614
+C100,Synergistic national customer loyalty,LinkedIn,Brand Awareness,2023-03-19,2023-06-12,96716,4567,1.17,751,0.1361,5343.39,0.04722072873,7.115033289
