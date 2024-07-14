@@ -125,7 +125,7 @@ The dataset contains the following columns:
 
 **Thoughts**: This comparison helps identify which campaign types are most effective in achieving different goals. Knowing which types drive the most engagement or conversions can guide future campaign strategies.
 
-![Campaign Type Performance](path_to_screenshot/campaign_type_performance.png)
+![Campaign Type Performance](Table of Details.png)
 
 ---
 
@@ -156,5 +156,5 @@ The dataset contains the following columns:
 
 **Thoughts**: Analyzing the cost and conversion distribution helps assess the cost-effectiveness of each campaign type or platform. It reveals whether we’re getting a good return on investment for each type of campaign.
 
-![Distribution of Total Cost and Conversions](path_to_screenshot/distribution_total_cost_conversions.png)
+![Distribution of Total Cost and Conversions](Details.png)
 
