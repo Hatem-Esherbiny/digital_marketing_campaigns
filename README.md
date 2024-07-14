@@ -4,18 +4,31 @@ This project analyzes digital marketing campaign data to derive actionable insig
 The dataset contains the following columns:
 
 campaignID: Unique identifier for each campaign
+
 CampaignType: Type of campaign (Brand Awareness, Lead Generation, Engagement, Conversion)
+
 Platform: Platform where the campaign was run (Facebook, LinkedIn)
+
 StartDate: Start date of the campaign
+
 EndDate: End date of the campaign
+
 Days: Duration of the campaign in days
+
 Impressions: Number of times the ad was displayed
+
 CostPerClick (CPC): Average cost per click
+
 Conversions: Number of conversions achieved
+
 ConversionRate: Percentage of clicks that converted
+
 TotalCost: Total cost of the campaign
+
 CTR: Click-Through Rate
+
 CPA: Cost Per Acquisition
+
 
 ## Key Metrics Analyzed
 Total Cost: $1.2M
