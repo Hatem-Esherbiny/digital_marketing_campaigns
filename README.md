@@ -125,6 +125,7 @@ The dataset contains the following columns:
 
 ![Total Cost by Month and Platform](Line_Chart(Cost).png)
 
+
 ---
 
 ### 4. Campaign Type Performance
@@ -139,7 +140,7 @@ The dataset contains the following columns:
 
 **Thoughts**: This comparison helps identify which campaign types are most effective in achieving different goals. Knowing which types drive the most engagement or conversions can guide future campaign strategies.
 
-![Campaign Type Performance](Table of Details.png)
+![Campaign Type Performance](Details Campange.png)
 
 ---
 
