@@ -19,6 +19,9 @@ The dataset contains the following columns:
 - **CTR**: Click-Through Rate
 - **CPA**: Cost Per Acquisition
 
+# # # Tools used
+- * * Power BI * *: to visualize data and create dashboard.
+
 ## Visualizations
 ![Dashboard Preview](Dashboard.png)
 ---
