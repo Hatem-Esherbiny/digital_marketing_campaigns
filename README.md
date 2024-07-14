@@ -121,7 +121,7 @@ The dataset contains the following columns:
 - Month
 - Platform (Facebook, LinkedIn)
 
-**Thoughts**: Understanding monthly expenditure helps us see if increased spending correlates with better campaign performance. Comparing costs between Facebook and LinkedIn can help optimize future budget allocations.
+**Thoughts**: With the previous line chart (AVG_CTR), we can now link the efficiency of the platform to the cost of the campaign. This provides a clear visual representation of how performance measures relate to expenditure over time. The higher the actual ratio (CTR), the greater the cost.
 
 ![Total Cost by Month and Platform](Line_Chart(Cost).png)
 
