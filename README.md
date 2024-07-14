@@ -88,10 +88,12 @@ The dataset contains the following columns:
 
 **Key Metrics Analyzed**:
 - Total Cost
-- Conversions
-- Campaign Type or Platform
+- Avrage Cost Per Click (CPC)
+- Total Conversions
+- Total Clicks
+- Total Impressions
 
-**Thoughts**: Analyzing the cost and conversion distribution helps assess the cost-effectiveness of each campaign type or platform. It reveals whether we’re getting a good return on investment for each type of campaign.
+**Thoughts**: 
 
 ![Distribution of Total Cost and Conversions](Details.png)
 
