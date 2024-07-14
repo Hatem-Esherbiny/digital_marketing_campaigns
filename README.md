@@ -61,7 +61,7 @@ This analysis provides valuable insights into the performance of digital marketi
 This project analyzes digital marketing campaign data to derive actionable insights and optimize campaign performance.
 
 ## Dashboard Preview
-![Dashboard Preview](path_to_screenshot/dashboard_preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Dataset
 The dataset contains the following columns:
@@ -141,7 +141,7 @@ The dataset contains the following columns:
 
 **Thoughts**: By comparing performance across platforms, we can see which platform delivers better results overall. This can inform decisions on where to focus more effort and budget.
 
-![Platform Comparison](path_to_screenshot/platform_comparison.png)
+![Platform Comparison](PlatformDetails.png)
 
 ---
 
