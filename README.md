@@ -89,7 +89,7 @@ Conversion: Despite its widespread adoption and relatively low costs, conversion
 
 Brand Awareness: While it is one of the least proliferative campaigns, brand awareness campaigns demonstrate good effectiveness at the lowest cost.
 
-![Campaign Type Performance](DetailsCampange.png)
+![Campaign Type Performance](DetailsCampaige.png)
 
 ---
 
