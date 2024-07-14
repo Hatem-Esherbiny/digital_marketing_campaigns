@@ -162,7 +162,7 @@ Brand Awareness: While it is one of the least proliferative campaigns, brand awa
 - Conversions
 - Platform (Facebook, LinkedIn)
 
-**Thoughts**: By comparing performance across platforms, we can see which platform delivers better results overall. This can inform decisions on where to focus more effort and budget.
+**Thoughts**: These visuals indicate Facebook's superiority in terms of reach and engagement.
 
 ![Platform Comparison](PlatformDetails.png)
 
