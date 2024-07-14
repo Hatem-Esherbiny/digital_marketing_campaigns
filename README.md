@@ -3,31 +3,33 @@ This project analyzes digital marketing campaign data to derive actionable insig
 ## Dataset
 The dataset contains the following columns:
 
-campaignID: Unique identifier for each campaign
+1_campaignID: Unique identifier for each campaign
 
-CampaignType: Type of campaign (Brand Awareness, Lead Generation, Engagement, Conversion)
+2_CampaignType: Type of campaign (Brand Awareness, Lead Generation, Engagement, Conversion)
 
-Platform: Platform where the campaign was run (Facebook, LinkedIn)
+3_Platform: Platform where the campaign was run (Facebook, LinkedIn)
 
-StartDate: Start date of the campaign
+4_StartDate: Start date of the campaign
 
-EndDate: End date of the campaign
+5_EndDate: End date of the campaign
 
-Days: Duration of the campaign in days
+6_Days: Duration of the campaign in days
 
-Impressions: Number of times the ad was displayed
+7_Impressions: Number of times the ad was displayed
 
-CostPerClick (CPC): Average cost per click
+8_Clicks : Number of Clicks
+ 
+9_CostPerClick (CPC): Average cost per click
 
-Conversions: Number of conversions achieved
+10_Conversions: Number of conversions achieved
 
-ConversionRate: Percentage of clicks that converted
+11_ConversionRate: Percentage of clicks that converted
 
-TotalCost: Total cost of the campaign
+12_TotalCost: Total cost of the campaign
 
-CTR: Click-Through Rate
+13_CTR: Click-Through Rate
 
-CPA: Cost Per Acquisition
+14_CPA: Cost Per Acquisition
 
 
 ## Key Metrics Analyzed
