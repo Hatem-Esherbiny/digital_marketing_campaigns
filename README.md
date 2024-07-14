@@ -82,8 +82,20 @@ The dataset contains the following columns:
 ---
 
 ## Charts and Analysis
+### 1. Distribution of Total Cost and Conversions
 
-### 1. Average CTR by Month and Platform
+**Description**: This chart shows how the total campaign costs and conversions are distributed across different campaign types or platforms.
+
+**Key Metrics Analyzed**:
+- Total Cost
+- Conversions
+- Campaign Type or Platform
+
+**Thoughts**: Analyzing the cost and conversion distribution helps assess the cost-effectiveness of each campaign type or platform. It reveals whether we’re getting a good return on investment for each type of campaign.
+
+![Distribution of Total Cost and Conversions](Details.png)
+
+### 2. Average CTR by Month and Platform
 
 **Description**: This chart shows the average Click-Through Rate (CTR) for Facebook and LinkedIn campaigns each month.
 
@@ -98,7 +110,7 @@ The dataset contains the following columns:
 
 ---
 
-### 2. Total Cost by Month and Platform
+### 3. Total Cost by Month and Platform
 
 **Description**: This chart displays the total spending on campaigns for each month on both Facebook and LinkedIn.
 
@@ -113,7 +125,7 @@ The dataset contains the following columns:
 
 ---
 
-### 3. Campaign Type Performance
+### 4. Campaign Type Performance
 
 **Description**: This chart compares the performance of different campaign types (Brand Awareness, Lead Generation, Engagement, Conversion) based on key metrics like Impressions, Clicks, and Conversions.
 
@@ -129,7 +141,7 @@ The dataset contains the following columns:
 
 ---
 
-### 4. Platform Comparison
+### 5. Platform Comparison
 
 **Description**: This chart shows how Facebook and LinkedIn campaigns compare in terms of key metrics like Impressions, Clicks, and Conversions.
 
@@ -145,7 +157,7 @@ The dataset contains the following columns:
 
 ---
 
-### 5. Distribution of Total Cost and Conversions
+### 6. Distribution of Total Cost and Conversions
 
 **Description**: This chart shows how the total campaign costs and conversions are distributed across different campaign types or platforms.
 
