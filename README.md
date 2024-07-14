@@ -20,7 +20,7 @@ The dataset contains the following columns:
 - **CPA**: Cost Per Acquisition
 
 ## Visualizations
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Screenshot_185.png)
 
 ## Key Metrics Analyzed
 1. **Total Cost**: $1.2M
