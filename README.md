@@ -61,9 +61,13 @@ Analysis of performance metrics between Facebook and LinkedIn to determine the m
 Identification of seasonal trends and patterns to optimize future campaign strategies.
 ## Visualizations
 Average CTR by Month and Platform: Line chart showing monthly CTR trends for Facebook and LinkedIn.
+
 Total Cost by Month and Platform: Area chart depicting monthly expenditure across platforms.
+
 Campaign Type Performance: Table summarizing key metrics for each campaign type.
+
 Total Impressions, Clicks, and Conversions: Bar charts comparing performance metrics between Facebook and LinkedIn.
+
 ## Tools Used
 Power BI: For data visualization and dashboard creation.
 
