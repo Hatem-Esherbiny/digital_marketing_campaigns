@@ -140,7 +140,7 @@ The dataset contains the following columns:
 
 **Thoughts**: This comparison helps identify which campaign types are most effective in achieving different goals. Knowing which types drive the most engagement or conversions can guide future campaign strategies.
 
-![Campaign Type Performance](Details Campange.png)
+![Campaign Type Performance](DetailsCampange.png)
 
 ---
 
