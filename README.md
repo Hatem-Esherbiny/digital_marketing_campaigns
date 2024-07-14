@@ -93,7 +93,7 @@ The dataset contains the following columns:
 - Total Clicks
 - Total Impressions
 
-**Thoughts**: 
+**Thoughts**: For every 100 people who have seen the ad, approximately 10 have clicked on it, and only one has responded to the call to action. With a total campaign cost of $1.2 million and an average cost per click (CPC) of $2.4
 
 ![Distribution of Total Cost and Conversions](Details.png)
 
