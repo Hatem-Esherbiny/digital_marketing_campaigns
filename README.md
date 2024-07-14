@@ -34,12 +34,19 @@ The dataset contains the following columns:
 
 ## Key Metrics Analyzed
 Total Cost: $1.2M
+
 Average Cost Per Click (CPC): $2.4
+
 Total Conversions: 48.5K
+
 Total Clicks: 495K
+
 Total Impressions: 5.1M
+
 Analysis and Insights
+
 ### Monthly Performance:
+
 
 Analysis of average CTR by month and platform to identify trends and peaks.
 Monthly breakdown of total cost to monitor expenditure.
