@@ -25,7 +25,7 @@ The dataset contains the following columns:
 ## Charts and Analysis
 ### 1. Distribution of Total Cost and Conversions
 
-**Description**: This chart shows how the total campaign costs and conversions are distributed across different campaign types or platforms.
+**Description**: This chart shows how the total campaign costs , conversions, Total Clicks , Total Impressions and Avrage Cost Per Click (CPC)
 
 **Key Metrics Analyzed**:
 - Total Cost
