@@ -106,7 +106,7 @@ The dataset contains the following columns:
 - Month
 - Platform (Facebook, LinkedIn)
 
-**Thoughts**: By observing the CTR trends, we can identify which months had the highest and lowest engagement, helping to pinpoint the most effective times for campaigns. Comparing Facebook and LinkedIn can reveal which platform performs better in terms of CTR.
+**Thoughts**: There is a clear superiority of LinkedIn in the first quarter of the year. In June, the CTR ratio rises to the highest rate of the year for both platforms. Subsequently, there is a significant shift in performance between the two platforms, with notable differences.
 
 ![Average CTR by Month and Platform](Line_Chart.png)
 
@@ -158,17 +158,4 @@ The dataset contains the following columns:
 ![Platform Comparison](PlatformDetails.png)
 
 ---
-
-### 6. Distribution of Total Cost and Conversions
-
-**Description**: This chart shows how the total campaign costs and conversions are distributed across different campaign types or platforms.
-
-**Key Metrics Analyzed**:
-- Total Cost
-- Conversions
-- Campaign Type or Platform
-
-**Thoughts**: Analyzing the cost and conversion distribution helps assess the cost-effectiveness of each campaign type or platform. It reveals whether we’re getting a good return on investment for each type of campaign.
-
-![Distribution of Total Cost and Conversions](Details.png)
 
