@@ -138,7 +138,15 @@ The dataset contains the following columns:
 - Conversions
 - Campaign Type
 
-**Thoughts**: This comparison helps identify which campaign types are most effective in achieving different goals. Knowing which types drive the most engagement or conversions can guide future campaign strategies.
+**Thoughts**:Here, we can discern several insights about each of the four campaigns:
+
+Lead Generation: This campaign is widely effective and proliferative, though it incurs significant costs.
+
+Engagement: Known for its widespread reach, low costs, and high effectiveness, engagement campaigns stand out as the most efficient.
+
+Conversion: Despite its widespread adoption and relatively low costs, conversion campaigns are considered the least effective among the four.
+
+Brand Awareness: While it is one of the least proliferative campaigns, brand awareness campaigns demonstrate good effectiveness at the lowest cost.
 
 ![Campaign Type Performance](DetailsCampange.png)
 
