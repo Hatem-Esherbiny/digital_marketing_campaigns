@@ -20,7 +20,7 @@ The dataset contains the following columns:
 - **CPA**: Cost Per Acquisition
 
 # # # Tools used
-- * * Power BI * *: to visualize data and create dashboard.
+ Power BI * *: to visualize data and create dashboard.
 
 ## Visualizations
 ![Dashboard Preview](Dashboard.png)
